@@ -1,0 +1,6 @@
+athlete_id,name,sex,date
+50,Ivanka Bonova,Female,2023-04-03
+120,Nataliya Uryadova,Female,2022-01-02
+70,Essa Ismail Rashed,Male,2024-01-01
+500,Péter Boros,Male,2023-01-02
+102,Svetlana Kholomina,Female,2023-05-01

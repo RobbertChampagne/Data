@@ -1,0 +1,32 @@
+[
+    {
+        "athlete_id": 50,
+        "name": "Ivanka Bonova",
+        "sex": "Female",
+        "date": "2023-04-03"
+    },
+    {
+        "athlete_id": 120,
+        "name": "Nataliya Uryadova",
+        "sex": "Female",
+        "date": "2022-01-02"
+    },
+    {
+        "athlete_id": 70,
+        "name": "Essa Ismail Rashed",
+        "sex": "Male",
+        "date": "2024-01-01"
+    },
+    {
+        "athlete_id": 500,
+        "name": "Péter Boros",
+        "sex": "Male",
+        "date": "2023-01-02"
+    },
+    {
+        "athlete_id": 102,
+        "name": "Svetlana Kholomina",
+        "sex": "Female",
+        "date": "2023-05-01"
+    }
+]
